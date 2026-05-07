@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+i'm a design engineer in makassar
+
 <!--
 **eltriputrarb-bit/eltriputrarb-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
